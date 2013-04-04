@@ -79,7 +79,7 @@ public abstract class GraphStoreTestBase extends TestCase {
     initStore(basicProps());
   }
 
-  /**
+    /**
    * Provide properties for basic test store
    * @return
    */
